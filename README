@@ -1,0 +1,15 @@
+📸 Instagram Login 
+
+A simple web-based application that helps users analyze their Instagram data by comparing their followers and following lists. 
+This tool allows users to identify who has unfollowed them by uploading exported Instagram data files.
+
+-> How It Works
+    Export your Instagram data (followers & following list).
+    Upload:
+    followers.html
+    following.html
+    The application processes the files.
+    It compares both lists and shows users who are not following you back.
+
+
+    
